@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Vito's",
+        "Review": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22946834564209,
+          38.63676017004009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Snarf",
+        "Review": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23408442735672,
+          38.63207112198133
+        ]
+      }
+    }
+  ]
+}
